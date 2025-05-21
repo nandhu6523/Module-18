@@ -1,4 +1,4 @@
-[# Experiment 12(e): Count the Number of Triangles in an Undirected Graph
+# Experiment 12(e): Count the Number of Triangles in an Undirected Graph
 
 ## AIM
 To write a Python program to count the number of triangles present in an undirected graph.
